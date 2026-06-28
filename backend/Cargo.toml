@@ -1,11 +1,11 @@
 [package]
-name = "faang-alternativeto-finder-backend"
+name = "alternativeto-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Find free app alternatives - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-alternativeto-finder"
+repository = "https://github.com/JJ-Dynamite/alternativeto"
 
 [dependencies]
 axum = "0.7"
