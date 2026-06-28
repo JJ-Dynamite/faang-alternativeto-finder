@@ -1,6 +1,6 @@
 # Find free app alternatives
 
-[![CI](https://github.com/JJ-Dynamite/alternativeto-finder/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/alternativeto-finder/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-alternativeto-finder/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-alternativeto-finder/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Find free app alternatives - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/alternativeto-finder.git
+git clone https://github.com/JJ-Dynamite/faang-alternativeto-finder.git
 cd alternativeto-finder
 
 # Install backend dependencies

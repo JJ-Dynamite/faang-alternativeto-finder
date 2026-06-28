@@ -1,4 +1,4 @@
-# Contributing to alternativeto-finder
+# Contributing to faang-alternativeto-finder
 
 Thank you for your interest in contributing!
 
